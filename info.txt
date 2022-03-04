@@ -1,0 +1,4 @@
+hi this is project that has built with one server and two clients
+you have to run clinet.py file in diffrent OS .
+each ip of client has to be diffrent against each other.
+this project recaive data from one client and send to second client.
